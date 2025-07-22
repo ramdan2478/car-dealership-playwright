@@ -1,0 +1,35 @@
+{
+  "cookies": [
+    {
+      "name": "__RequestVerificationToken",
+      "value": "",
+      "domain": "",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "",
+      "value": "",
+      "domain": "",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "",
+      "localStorage": [
+        {
+          "name": "isExpandedMenu",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}

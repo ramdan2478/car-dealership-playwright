@@ -1,0 +1,10 @@
+{
+    "chat.mcp.serverSampling": {
+        "playwright/.vscode/mcp.json: playwright": {
+            "allowedModels": [
+                "github.copilot-chat/gpt-4.1"
+            ]
+        }
+    },
+    // "chat.tools.autoApprove": true
+}
